@@ -70,7 +70,7 @@ If you find this repository helpful, please consider giving it a ⭐.  We will c
 
 Timeline of FM4CD:
 
-![Overview](F:\Githubcode\FM4CD\fig\2.jpg)
+![Overview](fig/2.jpg)
 
 
 
