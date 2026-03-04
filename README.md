@@ -74,8 +74,11 @@ Timeline of FM4CD:
 
 ## 📖 Table of Contents
 
-- 📚 [Remote Sensing Change Detection with Vision Foundation Models](#remote-sensing-change-detection-with-vision-foundation-models)
-- 🧑‍🏫 [Large Language Models Meets Temporal Images](#change-detection)
+- [Remote Sensing Change Detection with Vision Foundation Models](#remote-sensing-change-detection-with-vision-foundation-models)
+- [Remote Sensing Change Detection with Large Language Models](#remote-sensing-change-detection-with-large-language-models)
+- [Remote Sensing Change Detection with Vision Language Foundation Models](#remote-sensing-change-detection-with-vision-language-foundation-models)
+- [Remote Sensing Change Detection with Generative Foundation Models](#remote-sensing-change-detection-with-generative-foundation-models)
+- [Remote Sensing Change Detection with Remote Sensing-specific Foundation Models](#remote-sensing-change-detection-with-remote-sensing-specific-foundation-models)
 
 🧩 **Remote Sensing Change Detection with Vision Foundation Models**
 
@@ -162,4 +165,3 @@ Timeline of FM4CD:
 | 2025 | RFHP-CD | [RFHP-CD: A Prompt-Driven Fine-Tuning Framework of Remote Sensing Foundation Model for Building and Cropland Change Detection](https://ieeexplore.ieee.org/abstract/document/11077146) | HyperSIGMA | ✗ |
 |  |  |  |  |  |
 
-## change detection
