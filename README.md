@@ -78,7 +78,8 @@ Timeline of FM4CD:
 - [Remote Sensing Change Detection with Large Language Models](#remote-sensing-change-detection-with-large-language-models)
 - [Remote Sensing Change Detection with Vision Language Foundation Models](#remote-sensing-change-detection-with-vision-language-foundation-models)
 - [Remote Sensing Change Detection with Generative Foundation Models](#remote-sensing-change-detection-with-generative-foundation-models)
-- [Remote Sensing Change Detection with Remote Sensing-specific Foundation Models](#remote-sensing-change-detection-with-remote-sensing-specific-foundation-models)
+- [Remote Sensing Change Detection with Remote Sensing-specific Foundation Models](#1)
+- [asdfa](hahaha)
 
 🧩 **Remote Sensing Change Detection with Vision Foundation Models**
 
@@ -123,6 +124,8 @@ Timeline of FM4CD:
 
 **Remote Sensing Change Detection with Large Language Models**
 
+## <span id="hahaha">sadfasd</span>
+
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
 | 2023 | PromptCC | [A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/abstract/document/10271701) | GPT | [✔](https://github.com/Chen-Yang-Liu/PromptCC) |
@@ -158,8 +161,7 @@ Timeline of FM4CD:
 | 2026 | Noise2Change | [Generating Any Changes in the Noise Domain](https://ieeexplore.ieee.org/abstract/document/11298555) | Diffusion | [✔](https://github.com/chiangliu/noise2change) |
 | 2026 | ChangeBridge | [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing](https://arxiv.org/abs/2507.04678) | DiT-XL | [✔](https://github.com/Z-Zheng/pytorch-change-models) |
 
-## Remote Sensing Change Detection with Remote Sensing–specific Foundation Models
-
+## Remote Sensing Change Detection with Remote Sensing–specific Foundation Models 
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
 | 2025 | RFHP-CD | [RFHP-CD: A Prompt-Driven Fine-Tuning Framework of Remote Sensing Foundation Model for Building and Cropland Change Detection](https://ieeexplore.ieee.org/abstract/document/11077146) | HyperSIGMA | ✗ |
