@@ -78,10 +78,9 @@ Timeline of FM4CD:
 - [Remote Sensing Change Detection with Large Language Models](#remote-sensing-change-detection-with-large-language-models)
 - [Remote Sensing Change Detection with Vision Language Foundation Models](#remote-sensing-change-detection-with-vision-language-foundation-models)
 - [Remote Sensing Change Detection with Generative Foundation Models](#remote-sensing-change-detection-with-generative-foundation-models)
-- [Remote Sensing Change Detection with Remote Sensing-specific Foundation Models](#1)
 - [Remote Sensing Change Detection with Remote Sensing–specific Foundation Models](#remote-sensing-change-detection-with-remote-sensing-specific-foundation-models)
 
-🧩 **Remote Sensing Change Detection with Vision Foundation Models**
+## Remote Sensing Change Detection with Vision Foundation Models
 
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
@@ -119,10 +118,9 @@ Timeline of FM4CD:
 | 2025 | SAM2-CD | [SAM2-CD: Remote Sensing Image Change Detection With SAM2](https://ieeexplore.ieee.org/abstract/document/11164661) | SAM2 | ✗ |
 | 2025 | S2C | [S2C: A Noise-Resistant Difference Learning Framework for Unsupervised Change Detection in VHR Remote Sensing Images](https://arxiv.org/abs/2502.12604) | FastSAM/DINOv2 | [✔](https://github.com/DingLei14/S2C) |
 | 2025 | SemSAM-CD | [SemSAM-CD: A Novel Weakly Supervised Change Detection Method Based on Semantic Guidance and Segment Anything Model Refinement](https://ieeexplore.ieee.org/abstract/document/11302783) | SAM | [✔](https://github.com/lium2192/SemSAM-CD) |
-|          |                    |                                                              |                |                                                              |
 | ........|||||
 
-**Remote Sensing Change Detection with Large Language Models**
+## Remote Sensing Change Detection with Large Language Models
 
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
@@ -131,9 +129,9 @@ Timeline of FM4CD:
 | 2024 | Semantic-CC | [Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance](https://ieeexplore.ieee.org/abstract/document/10752619) | Vicuna LLM | ✗ |
 | 2024 | Change-Agent | [Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis](https://ieeexplore.ieee.org/abstract/document/10591792) | Change-Agent | [✔](https://github.com/Chen-Yang-Liu/Change-Agent) |
 | 2025 | SegChange-R1 | [SegChange-R1: LLM-Augmented Remote Sensing Change Detection]() | Microsoft/Phi-1.5 | [✔](https://github.com/Yu-Zhouz/SegChange-R1) |
-|  |  |                                                              |                   |                                                              |
+| ........ |  |                                                              |                   |                                                              |
 
-**Remote Sensing Change Detection with Vision Language Foundation Models**
+## Remote Sensing Change Detection with Vision Language Foundation Models
 
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
@@ -149,22 +147,21 @@ Timeline of FM4CD:
 | 2025 |    SSP-SAM     | [Spatio-Semantic Prompt guided Adaptive Segment Anything for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10888518) | CLIP | ✗ |
 | 2025 |    TextSCD     | [TextSCD: Leveraging Text-based Semantic Guidance for Remote Sensing Image Semantic Change Detection](https://isprs-annals.copernicus.org/articles/X-G-2025/383/2025/isprs-annals-X-G-2025-383-2025.html) | CLIP | ✗ |
 | 2025 |       -        | [VLM-Based Building Change Detection with CNN-Transformer](https://elib.dlr.de/222233/) | Grounding DINO | ✗ |
-|  |                |                                                              |                |                                                              |
+| ........ |                |                                                              |                |                                                              |
 
-##  Remote Sensing Change Detection with  Generative Foundation Models
+## Remote Sensing Change Detection with Generative Foundation Models
 
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
 | 2025 | Changen2 | [Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model](https://ieeexplore.ieee.org/abstract/document/10713915) | Changen2 | [✔](https://github.com/Z-Zheng/pytorch-change-models) |
 | 2026 | Noise2Change | [Generating Any Changes in the Noise Domain](https://ieeexplore.ieee.org/abstract/document/11298555) | Diffusion | [✔](https://github.com/chiangliu/noise2change) |
 | 2026 | ChangeBridge | [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing](https://arxiv.org/abs/2507.04678) | DiT-XL | [✔](https://github.com/Z-Zheng/pytorch-change-models) |
+| ........ |  |  |  |  |
 
 ## Remote Sensing Change Detection with Remote Sensing specific Foundation Models 
-
-## change detection
 
 | Time | Model           | Paper Title                                   | VFM Backbone | Code |
 | :----: | :---------------: | :-------------------------------------------: | :------------: | :----: |
 | 2025 | RFHP-CD | [RFHP-CD: A Prompt-Driven Fine-Tuning Framework of Remote Sensing Foundation Model for Building and Cropland Change Detection](https://ieeexplore.ieee.org/abstract/document/11077146) | HyperSIGMA | ✗ |
-|  |  |  |  |  |
+| ........ |  |  |  |  |
 
