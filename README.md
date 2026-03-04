@@ -79,7 +79,7 @@ Timeline of FM4CD:
 - [Remote Sensing Change Detection with Vision Language Foundation Models](#remote-sensing-change-detection-with-vision-language-foundation-models)
 - [Remote Sensing Change Detection with Generative Foundation Models](#remote-sensing-change-detection-with-generative-foundation-models)
 - [Remote Sensing Change Detection with Remote Sensing-specific Foundation Models](#1)
-- [hyper](#change-detection)
+- [Remote Sensing Change Detection with Remote Sensing–specific Foundation Models](#remote-sensing-change-detection-with-remote-sensing-specific-foundation-models)
 
 🧩 **Remote Sensing Change Detection with Vision Foundation Models**
 
@@ -159,7 +159,7 @@ Timeline of FM4CD:
 | 2026 | Noise2Change | [Generating Any Changes in the Noise Domain](https://ieeexplore.ieee.org/abstract/document/11298555) | Diffusion | [✔](https://github.com/chiangliu/noise2change) |
 | 2026 | ChangeBridge | [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing](https://arxiv.org/abs/2507.04678) | DiT-XL | [✔](https://github.com/Z-Zheng/pytorch-change-models) |
 
-## Remote Sensing Change Detection with Remote Sensing–specific Foundation Models 
+## Remote Sensing Change Detection with Remote Sensing specific Foundation Models 
 
 ## change detection
 
